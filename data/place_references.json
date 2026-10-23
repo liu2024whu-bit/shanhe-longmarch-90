@@ -1,0 +1,341 @@
+{
+  "yudu": {
+    "name": "Gongjiang",
+    "geonameId": "1810124",
+    "lon": 115.41002,
+    "lat": 25.95735,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "quanzhou": {
+    "name": "Quanzhou",
+    "geonameId": "1797352",
+    "lon": 111.06752,
+    "lat": 25.93545,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "tongdao": {
+    "name": "Xianxi",
+    "geonameId": "1790357",
+    "lon": 109.64306,
+    "lat": 26.33472,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "liping": {
+    "name": "Liping",
+    "geonameId": "1813033",
+    "lon": 109.13139,
+    "lat": 26.23111,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "houchang": {
+    "lon": 107.48,
+    "lat": 27.18,
+    "precision": "regional editorial reference",
+    "purpose": "Approximate present-day regional locator; not geocoded to an exact historic site"
+  },
+  "zunyi": {
+    "name": "Zunyi",
+    "geonameId": "1783621",
+    "lon": 106.90722,
+    "lat": 27.68667,
+    "feature": "PPLA2",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "tucheng": {
+    "name": "Tucheng",
+    "geonameId": "1792435",
+    "lon": 105.99389,
+    "lat": 28.2925,
+    "feature": "PPLA4",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "zhaxi": {
+    "name": "Zhaxi",
+    "geonameId": "1784790",
+    "lon": 104.96874,
+    "lat": 27.85081,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "taipingdu": {
+    "name": "Taiping",
+    "geonameId": "1793591",
+    "lon": 106.03771,
+    "lat": 28.14083,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "erlang": {
+    "name": "Erlang",
+    "geonameId": "6912719",
+    "lon": 106.15843,
+    "lat": 28.12602,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "maotai": {
+    "name": "Maotai",
+    "geonameId": "1801143",
+    "lon": 106.37753,
+    "lat": 27.85243,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "jiaopingdu": {
+    "name": "Jiaoping",
+    "geonameId": "9078069",
+    "lon": 102.41137,
+    "lat": 26.27221,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "anshunchang": {
+    "name": "Anshun",
+    "geonameId": "1817967",
+    "lon": 102.28548,
+    "lat": 29.27682,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "luding": {
+    "name": "Luding Xian",
+    "geonameId": "1802142",
+    "lon": 102.234,
+    "lat": 29.914,
+    "feature": "ADM3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "dawei": {
+    "name": "Dawei",
+    "geonameId": "1813370",
+    "lon": 102.63413,
+    "lat": 30.96655,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "maoxian": {
+    "name": "Fengyi",
+    "geonameId": "1811182",
+    "lon": 103.85382,
+    "lat": 31.68412,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "maoergai": {
+    "lon": 103.07,
+    "lat": 32.65,
+    "precision": "regional editorial reference",
+    "purpose": "Approximate present-day regional locator; not geocoded to an exact historic site"
+  },
+  "lazikou": {
+    "name": "Lazikou",
+    "geonameId": "1804264",
+    "lon": 103.89402,
+    "lat": 34.06634,
+    "feature": "PPLA4",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "bangluo": {
+    "name": "Bangluo",
+    "geonameId": "1817088",
+    "lon": 104.94139,
+    "lat": 35.035,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "wuqi": {
+    "name": "Wuqi",
+    "geonameId": "1791043",
+    "lon": 108.17171,
+    "lat": 36.92631,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "liujia": {
+    "name": "Zhujita",
+    "geonameId": "1803052",
+    "lon": 110.22429,
+    "lat": 29.46754,
+    "feature": "PPLA4",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "bijie": {
+    "name": "Bijie",
+    "geonameId": "1816373",
+    "lon": 105.28627,
+    "lat": 27.30193,
+    "feature": "PPLA2",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "xuanwei": {
+    "name": "Xuanwei",
+    "geonameId": "1797119",
+    "lon": 104.10088,
+    "lat": 26.23497,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "shigu": {
+    "name": "Shigu",
+    "geonameId": "1280006",
+    "lon": 99.95628,
+    "lat": 26.86852,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "ganzi": {
+    "name": "Ganzi",
+    "geonameId": "1810271",
+    "lon": 99.99413,
+    "lat": 31.62744,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "aba": {
+    "name": "Aba",
+    "geonameId": "1818177",
+    "lon": 101.70625,
+    "lat": 32.90594,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "chengxian": {
+    "name": "Chengxian Chengguanzhen",
+    "geonameId": "1815188",
+    "lon": 105.73294,
+    "lat": 33.74775,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "jiangtaibu": {
+    "name": "Jiangtaibu",
+    "geonameId": "1806259",
+    "lon": 105.85,
+    "lat": 35.78333,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "cangxi": {
+    "name": "Lingjiang",
+    "geonameId": "1803514",
+    "lon": 105.93162,
+    "lat": 31.7346,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "baizhang": {
+    "name": "Baizhang",
+    "geonameId": "1817206",
+    "lon": 103.26072,
+    "lat": 30.18732,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "huining": {
+    "name": "Huishi",
+    "geonameId": "1806807",
+    "lon": 105.04858,
+    "lat": 35.69196,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "hejiachong": {
+    "lon": 114.29,
+    "lat": 31.99,
+    "precision": "regional editorial reference",
+    "purpose": "Approximate present-day regional locator; not geocoded to an exact historic site"
+  },
+  "dushuzhen": {
+    "name": "Dushu",
+    "geonameId": "1811783",
+    "lon": 113.15969,
+    "lat": 33.32543,
+    "feature": "PPLA4",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "yujiahe": {
+    "name": "Yujiahe",
+    "geonameId": "1785824",
+    "lon": 110.41556,
+    "lat": 33.86972,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "fengyukou": {
+    "name": "Fengyukou",
+    "geonameId": "1811171",
+    "lon": 108.81889,
+    "lat": 34.01889,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "jingchuan": {
+    "name": "Jingchuan Chengguanzhen",
+    "geonameId": "1805687",
+    "lon": 107.36111,
+    "lat": 35.33194,
+    "feature": "PPLA3",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "yongping": {
+    "name": "Yongping",
+    "geonameId": "1786276",
+    "lon": 109.81278,
+    "lat": 37.00444,
+    "feature": "PPL",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "qiaoqi": {
+    "name": "Qiaoqi",
+    "geonameId": "9628251",
+    "lon": 102.7352,
+    "lat": 30.70112,
+    "feature": "ADM4",
+    "purpose": "Modern locality reference, not an exact historical site survey"
+  },
+  "gouba": {
+    "name": "苟坝—马鬃岭一带",
+    "lon": 106.5,
+    "lat": 27.68,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "huili": {
+    "name": "会理",
+    "matchedName": "Huili Chengguanzhen",
+    "geonameId": "1806854",
+    "lon": 102.24392,
+    "lat": 26.66256,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.67,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "lianghekou": {
+    "name": "两河口（小金）",
+    "matchedName": "Lianghekou",
+    "geonameId": "1787986",
+    "lon": 102.58006,
+    "lat": 31.20947,
+    "feature": "PPL",
+    "referenceOffsetKm": 2.98,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "hadapu": {
+    "name": "哈达铺",
+    "lon": 104.21,
+    "lat": 34.23,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "gaoji-ejie": {
+    "name": "Gaoji",
+    "geonameId": "10803136",
+    "lon": 103.314,
+    "lat": 33.8767,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "purpose": "Modern Gaoji village reference for the Ejie region; not the meeting building centre"
+  }
+}

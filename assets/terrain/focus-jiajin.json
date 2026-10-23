@@ -1,0 +1,37 @@
+{
+  "id": "focus-jiajin",
+  "file": "./assets/terrain/focus-jiajin.webp",
+  "bounds": [
+    101.5,
+    30,
+    103.5,
+    32
+  ],
+  "size": [
+    2048,
+    2048
+  ],
+  "crs": "EPSG:4326",
+  "sha256": "7aeba57f57477adfc9b249aa5b7bd3177926f12c5a126281ee6634967e2670cc",
+  "inputs": [
+    {
+      "layer": "SRTM_Color_Index",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=SRTM_Color_Index&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=101.5%2C30%2C103.5%2C32&width=2048&height=2048",
+      "sha256": "1ce304226a5bb4099859c1bf03a71556be9aa9d051b0bb3f703a3a69b7805622",
+      "requestedYear": null
+    },
+    {
+      "layer": "MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=101.5%2C30%2C103.5%2C32&width=2048&height=2048&time=2022-01-01",
+      "sha256": "b809bb15abe1a5d05a2107669f37c2711fc57cc8b18b7c9b80c7961c6048b8ab",
+      "requestedYear": "2022"
+    },
+    {
+      "layer": "ASTER_GDEM_Greyscale_Shaded_Relief",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=ASTER_GDEM_Greyscale_Shaded_Relief&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=101.5%2C30%2C103.5%2C32&width=2048&height=2048",
+      "sha256": "a9a7a2b5905c49b2dae35a2a7acedd9f6f0718b4538af5bd1e73c4a2cfd2943f",
+      "requestedYear": null
+    }
+  ],
+  "blendMarginPixels": 128
+}

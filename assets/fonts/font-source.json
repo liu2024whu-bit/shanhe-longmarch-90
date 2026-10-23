@@ -1,0 +1,13 @@
+{
+  "original_family": "Ma Shan Zheng",
+  "original_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/mashanzheng/MaShanZheng-Regular.ttf",
+  "upstream": "https://github.com/google/fonts/tree/main/ofl/mashanzheng",
+  "license": "SIL Open Font License 1.1",
+  "retrieved": "2026-10-22",
+  "subsetUpdated": "2026-10-23",
+  "original_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+  "web_family": "Shanhe Brush",
+  "modification": "UI glyph subset; WOFF2 conversion; renamed family",
+  "glyph_count": 1589,
+  "woff2_bytes": 636252
+}

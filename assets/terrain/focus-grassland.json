@@ -1,0 +1,37 @@
+{
+  "id": "focus-grassland",
+  "file": "./assets/terrain/focus-grassland.webp",
+  "bounds": [
+    102,
+    32,
+    104,
+    34
+  ],
+  "size": [
+    2048,
+    2048
+  ],
+  "crs": "EPSG:4326",
+  "sha256": "232038be6a8b4ddff87c84c162774f69a0535644089acbc65d16627b1a6863f8",
+  "inputs": [
+    {
+      "layer": "SRTM_Color_Index",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=SRTM_Color_Index&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=102%2C32%2C104%2C34&width=2048&height=2048",
+      "sha256": "36185ad041b48736698153863a81f1d63fb8476c05ad699760577671fc169249",
+      "requestedYear": null
+    },
+    {
+      "layer": "MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=102%2C32%2C104%2C34&width=2048&height=2048&time=2022-01-01",
+      "sha256": "7dabcaf881895e0cb8d74894d701247cc8d9dcec4a5f71eaacbaee8f2d573a93",
+      "requestedYear": "2022"
+    },
+    {
+      "layer": "ASTER_GDEM_Greyscale_Shaded_Relief",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=ASTER_GDEM_Greyscale_Shaded_Relief&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=102%2C32%2C104%2C34&width=2048&height=2048",
+      "sha256": "fb6b019cf6721461f29bc8715ad3f0c76e4cc3e1b79441e052b99d8f99b90949",
+      "requestedYear": null
+    }
+  ],
+  "blendMarginPixels": 128
+}

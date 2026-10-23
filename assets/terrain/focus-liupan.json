@@ -1,0 +1,37 @@
+{
+  "id": "focus-liupan",
+  "file": "./assets/terrain/focus-liupan.webp",
+  "bounds": [
+    104.9,
+    34.9,
+    106.9,
+    36.9
+  ],
+  "size": [
+    2048,
+    2048
+  ],
+  "crs": "EPSG:4326",
+  "sha256": "3cc74bbf4732f6ff7dc78f567b17aa1854b7788c63e7d70572cb2c11dedc0582",
+  "inputs": [
+    {
+      "layer": "SRTM_Color_Index",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=SRTM_Color_Index&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=104.9%2C34.9%2C106.9%2C36.9&width=2048&height=2048",
+      "sha256": "41b44daf7317420089b55951e11ab43a696d9679349097d71951023906a79aaa",
+      "requestedYear": null
+    },
+    {
+      "layer": "MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=104.9%2C34.9%2C106.9%2C36.9&width=2048&height=2048&time=2022-01-01",
+      "sha256": "bc61c4b6042a83f6636de98b37803c23d085391f1c84f8b6544ac7148df79af5",
+      "requestedYear": "2022"
+    },
+    {
+      "layer": "ASTER_GDEM_Greyscale_Shaded_Relief",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=ASTER_GDEM_Greyscale_Shaded_Relief&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=104.9%2C34.9%2C106.9%2C36.9&width=2048&height=2048",
+      "sha256": "7486af8f3a3ae95b1386372f421ea2384a34303441c619804aa6c93c91593a10",
+      "requestedYear": null
+    }
+  ],
+  "blendMarginPixels": 128
+}

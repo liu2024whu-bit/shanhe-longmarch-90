@@ -1,0 +1,491 @@
+[
+  {
+    "id": "zunyi",
+    "title": "遵义会议会址",
+    "caption": "贵州遵义 · 会址今景",
+    "kind": "旧址实拍",
+    "eventIds": [
+      "r1-zunyi",
+      "r1-zunyibattle"
+    ],
+    "file": "./assets/photos/zunyi.webp",
+    "date": "2021-06-27",
+    "author": "維基小霸王",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%81%B5%E4%B9%89%E4%BC%9A%E8%AE%AE%E4%BC%9A%E5%9D%80.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/%E9%81%B5%E4%B9%89%E4%BC%9A%E8%AE%AE%E4%BC%9A%E5%9D%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%E9%81%B5%E4%B9%89%E4%BC%9A%E8%AE%AE%E4%BC%9A%E5%9D%80.jpg/1280px-%E9%81%B5%E4%B9%89%E4%BC%9A%E8%AE%AE%E4%BC%9A%E5%9D%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "遵义会议会址.jpg",
+    "originalDescription": "​贵州省照片",
+    "changes": "Resized and encoded as WebP; CSS thumbnails may crop; enlarged view shows the full image. Adapted photo distributed under its original CC BY-SA licence.",
+    "downloadSha256": "4f01829de95502a58a87405c660a447940f9b4cdbe4574c1c81b599ee0c7ccc1",
+    "sha256": "63bb121ed123d00f7a4d3f5d4a967bf2db11b079cb6c991b973982c829b0e7e3",
+    "size": [
+      1280,
+      853
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "luding",
+    "title": "大渡河上的泸定桥",
+    "caption": "四川泸定 · 从东南侧看桥与河谷",
+    "kind": "旧址实拍",
+    "eventIds": [
+      "r1-luding"
+    ],
+    "file": "./assets/photos/luding.webp",
+    "date": "2026-02-05",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luding_Bridge_from_the_southeast_(20260205115751).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Luding_Bridge_from_the_southeast_%2820260205115751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Luding_Bridge_from_the_southeast_%2820260205115751%29.jpg/1280px-Luding_Bridge_from_the_southeast_%2820260205115751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "Luding Bridge from the southeast (20260205115751).jpg",
+    "originalDescription": "Nets added.",
+    "changes": "Resized and encoded as WebP; CSS thumbnails may crop; enlarged view shows the full image. Adapted photo distributed under its original CC BY-SA licence.",
+    "downloadSha256": "5608165749c583ba6df715e162e9e5e7aa106a7bade53f345294920fd36da701",
+    "sha256": "f4c98928348f232e4216beeb97cf3be3fc7283754a51c5e6d2b0efcfeef200a2",
+    "size": [
+      1280,
+      853
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "hadapu",
+    "title": "哈达铺红军干部会议旧址",
+    "caption": "甘肃宕昌 · 关帝庙今景",
+    "kind": "旧址实拍",
+    "eventIds": [
+      "r1-hadapu"
+    ],
+    "file": "./assets/photos/hadapu.webp",
+    "date": "2026-02-02",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hadapu_Red_Army_Cadre_Conference_site_(20260202165723).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Hadapu_Red_Army_Cadre_Conference_site_%2820260202165723%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hadapu_Red_Army_Cadre_Conference_site_%2820260202165723%29.jpg/1280px-Hadapu_Red_Army_Cadre_Conference_site_%2820260202165723%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "Hadapu Red Army Cadre Conference site (20260202165723).jpg",
+    "originalDescription": "Here, the Shaan-Gan Detachment was formed on 22 September 1935.",
+    "changes": "Resized and encoded as WebP; CSS thumbnails may crop; enlarged view shows the full image. Adapted photo distributed under its original CC BY-SA licence.",
+    "downloadSha256": "1fea2283570acab57e748e37f532fb00ebac58107fff3f148334901e3cb1eeaa",
+    "sha256": "07bd33cc650e9b3f8fef40f2db8f8a845503b9e031a5b4ebc9071ba051f8d215",
+    "size": [
+      1280,
+      853
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "grassland",
+    "title": "若尔盖花湖湿地",
+    "caption": "四川若尔盖 · 高原湿地的现代景观",
+    "kind": "区域环境",
+    "eventIds": [
+      "r1-grass",
+      "r24-north"
+    ],
+    "file": "./assets/photos/grassland.webp",
+    "date": "2023-04-30",
+    "author": "Yumeto",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20230430_Hua_Hu,_Zoig%C3%AA.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/20230430_Hua_Hu%2C_Zoig%C3%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/20230430_Hua_Hu%2C_Zoig%C3%AA.jpg/1280px-20230430_Hua_Hu%2C_Zoig%C3%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "20230430 Hua Hu, Zoigê.jpg",
+    "originalDescription": "Hua Hu (Flower Lake), Zoigê County",
+    "changes": "Resized and encoded as WebP; CSS thumbnails may crop; enlarged view shows the full image. Adapted photo distributed under its original CC BY-SA licence.",
+    "downloadSha256": "78338ff77d0b67f3570dae0e184d8d8193a3ad6c26912bf166598a55da385458",
+    "sha256": "93473d81846b050ae604c6309d4fbc77dd771d46da24788a558e38e47e39d231",
+    "size": [
+      1280,
+      960
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "huining",
+    "title": "会宁红军会师纪念馆",
+    "caption": "甘肃会宁 · 纪念设施今景",
+    "kind": "纪念设施",
+    "eventIds": [
+      "r4-huining"
+    ],
+    "file": "./assets/photos/huining.webp",
+    "date": "2012-07-26",
+    "author": "DarthVachel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%BC%9A%E5%B8%88%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/%E4%BC%9A%E5%B8%88%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%E4%BC%9A%E5%B8%88%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg/1280px-%E4%BC%9A%E5%B8%88%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "会师纪念馆.jpg",
+    "originalDescription": "This is a photo of a (or part of a) Major National Historical and Cultural Site in China identified by the ID CNGS-943-004",
+    "changes": "Resized and encoded as WebP; CSS thumbnails may crop; enlarged view shows the full image. Adapted photo distributed under its original CC BY-SA licence.",
+    "downloadSha256": "d1d8244a21eb3c420a80393a2301cabedab0c4a4c50a8c0a7ba29160f57ec3fa",
+    "sha256": "014a0c91826a7e975f52defe424396608c6397b9de876ebc20431fbbf3e587cb",
+    "size": [
+      1280,
+      960
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "shigu",
+    "title": "石鼓附近的金沙江",
+    "caption": "云南石鼓 · 金沙江河谷现代全景",
+    "kind": "区域环境",
+    "eventIds": [
+      "r2-shigu"
+    ],
+    "file": "./assets/photos/shigu.webp",
+    "date": "2018-06-25",
+    "author": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_changjiang_yangtze_aerial_pano_first_turn_shigu_2018.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/1_changjiang_yangtze_aerial_pano_first_turn_shigu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/1_changjiang_yangtze_aerial_pano_first_turn_shigu_2018.jpg/1280px-1_changjiang_yangtze_aerial_pano_first_turn_shigu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "1 changjiang yangtze aerial pano first turn shigu 2018.jpg",
+    "originalDescription": "changjiang yangtze aerial pano first turn shigu yunnan china 2018",
+    "changes": "Resized and encoded as WebP; CSS thumbnails may crop; enlarged view shows the full image. Adapted photo distributed under its original CC BY-SA licence.",
+    "downloadSha256": "0c8eb2605a2c5ef572b54e50aa95974a2f20a1363f0cfd1ff2109051670e4e21",
+    "sha256": "fabb49141524ee00acd556ea8c9f30e1dde65f81ef61f826b5c3e6f0922ead4a",
+    "size": [
+      1280,
+      612
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "yudu",
+    "title": "于都南门渡口",
+    "caption": "江西于都 · 红三军团长征渡口今景",
+    "kind": "旧址实拍",
+    "eventIds": [
+      "r1-yudu"
+    ],
+    "file": "./assets/photos/yudu.webp",
+    "date": "2014-05-30",
+    "author": "Zhangzhugang",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yudu_Zhongyang_Hongjun_Disan_Juntuan_Changzheng_Dukou_2014.05.30_12-02-17.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Yudu_Zhongyang_Hongjun_Disan_Juntuan_Changzheng_Dukou_2014.05.30_12-02-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Yudu_Zhongyang_Hongjun_Disan_Juntuan_Changzheng_Dukou_2014.05.30_12-02-17.jpg/1920px-Yudu_Zhongyang_Hongjun_Disan_Juntuan_Changzheng_Dukou_2014.05.30_12-02-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "Yudu Zhongyang Hongjun Disan Juntuan Changzheng Dukou 2014.05.30 12-02-17.jpg",
+    "originalDescription": "于都县中央红军长征出发地旧址——中央红军第三军团长征渡口（南门渡口）",
+    "changes": "Resized and encoded as WebP; thumbnails may crop and use restrained CSS colour treatment. Full image retains original framing. Distributed under its source licence.",
+    "downloadSha256": "1ee62383bf5269ec983976f9a17fdfcc975c55efc5fe19acda7e3de27f6baa0d",
+    "sha256": "f2a28e812e6ad1a67ca9cce15d97e8ad2da073b5c41630d8436732d815275308",
+    "size": [
+      1440,
+      960
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "jiajin",
+    "title": "夹金山山地景观",
+    "caption": "四川夹金山 · 山地的现代景观",
+    "kind": "区域环境",
+    "eventIds": [
+      "r1-jiajin"
+    ],
+    "file": "./assets/photos/jiajin.webp",
+    "date": "2008-11-11",
+    "author": "aisccd",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%A4%B9%E9%87%91%E5%B1%B1%E9%A3%8E%E5%85%89-%E6%B5%81%E6%B5%AA%E7%9A%84%E7%8B%97%E7%8B%97_-_panoramio.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/%E5%A4%B9%E9%87%91%E5%B1%B1%E9%A3%8E%E5%85%89-%E6%B5%81%E6%B5%AA%E7%9A%84%E7%8B%97%E7%8B%97_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/%E5%A4%B9%E9%87%91%E5%B1%B1%E9%A3%8E%E5%85%89-%E6%B5%81%E6%B5%AA%E7%9A%84%E7%8B%97%E7%8B%97_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalTitle": "夹金山风光-流浪的狗狗 - panoramio.jpg",
+    "originalDescription": "夹金山风光-流浪的狗狗",
+    "changes": "Resized and encoded as WebP; thumbnails may crop and use restrained CSS colour treatment. Full image retains original framing. Distributed under its source licence.",
+    "downloadSha256": "3c5f0cb420950b93d4f68e2f084bebb39202b1ad703db7f4495a7c892860df76",
+    "sha256": "1772d7117bb9091ced18703ac4c08b1fad3a1cbc9a08d5d5da73b63711bbb31b",
+    "size": [
+      825,
+      462
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "dawei",
+    "title": "达维会师纪念碑",
+    "caption": "四川小金 · 纪念设施今景",
+    "kind": "纪念设施",
+    "eventIds": [
+      "r1-dawei"
+    ],
+    "file": "./assets/photos/dawei.webp",
+    "date": "2013-07-07",
+    "author": "Leeshan Chung",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%BE%BE%E7%BB%B4%E4%BC%9A%E5%B8%88%E7%BA%AA%E5%BF%B5%E7%A2%91_-_panoramio.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%E8%BE%BE%E7%BB%B4%E4%BC%9A%E5%B8%88%E7%BA%AA%E5%BF%B5%E7%A2%91_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%E8%BE%BE%E7%BB%B4%E4%BC%9A%E5%B8%88%E7%BA%AA%E5%BF%B5%E7%A2%91_-_panoramio.jpg/1920px-%E8%BE%BE%E7%BB%B4%E4%BC%9A%E5%B8%88%E7%BA%AA%E5%BF%B5%E7%A2%91_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "达维会师纪念碑 - panoramio.jpg",
+    "originalDescription": "达维会师纪念碑",
+    "changes": "Resized and encoded as WebP; thumbnails may crop and use restrained CSS colour treatment. Full image retains original framing. Distributed under its source licence.",
+    "downloadSha256": "6b5e45d62935af7d80669531846c2dd53754e27ab1ab55f771b75186de33ebd6",
+    "sha256": "7c18f41b0bd3ea634aaa78edb13ac1ed9d0585ac7b8e7daa502d527f3cd6a3b3",
+    "size": [
+      1440,
+      810
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "relics",
+    "title": "长征时期文物陈列",
+    "caption": "中国国家博物馆 · 长征文物陈列实拍",
+    "kind": "文物陈列",
+    "eventIds": [],
+    "file": "./assets/photos/relics.webp",
+    "date": "2011-04-07",
+    "author": "Gary Lee Todd, Ph.D.",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:061_Relics_of_Long_March,_1930s.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/061_Relics_of_Long_March%2C_1930s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/061_Relics_of_Long_March%2C_1930s.jpg/1920px-061_Relics_of_Long_March%2C_1930s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "061 Relics of Long March, 1930s.jpg",
+    "originalDescription": "National Museum: Road of Rejuvenation. Exhibit depicts China's recovery after more than a century of Western imperialism. Complete indexed photo collection at WorldHistoryPics.com.",
+    "changes": "Resized and encoded as WebP; thumbnails may crop and use restrained CSS colour treatment. Full image retains original framing. Distributed under its source licence.",
+    "downloadSha256": "7764183e62feda10b2b2faa6413b814fb342295f3de6de52eba50818859ef655",
+    "sha256": "3cab4e619ff844a4b3244b4fc171f654a024dc31cb6e69bdeebef34ca61ae3f1",
+    "size": [
+      1440,
+      960
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "loushan-pass",
+    "title": "娄山关山口今景",
+    "caption": "贵州娄山关 · 山口与纪念地的2014年实景",
+    "kind": "区域环境",
+    "eventIds": [
+      "r1-cross2",
+      "r1-zunyibattle"
+    ],
+    "file": "./assets/photos/loushan-pass.webp",
+    "date": "2014-08-09",
+    "author": "xue siyang (df45086)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%A8%84%E5%B1%B1%E5%85%B3_20140809.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/%E5%A8%84%E5%B1%B1%E5%85%B3_20140809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%E5%A8%84%E5%B1%B1%E5%85%B3_20140809.jpg/1280px-%E5%A8%84%E5%B1%B1%E5%85%B3_20140809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "娄山关 20140809.jpg",
+    "originalDescription": "巡道工出品 Photo by Xundaogong 210国道骑行 松坎-遵义",
+    "changes": "Resized and encoded as WebP. The complete source framing is retained; UI thumbnails may crop. Distributed under the source licence.",
+    "downloadSha256": "c0f6ced5720db486934d10b859113b06b923ea3ae4f34d03d35ec2f518bf244b",
+    "sha256": "925cee6fa5876bd19c897446f38a5e690128b80f062504421058ac1af89712c3",
+    "size": [
+      1280,
+      854
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "loushan-site",
+    "title": "娄山关战斗遗址",
+    "caption": "贵州娄山关 · 红军战斗遗址的现代纪念设施",
+    "kind": "纪念设施",
+    "eventIds": [
+      "r1-cross2",
+      "r1-zunyibattle"
+    ],
+    "file": "./assets/photos/loushan-site.webp",
+    "date": "2014-08-09",
+    "author": "xue siyang (df45086)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%A8%84%E5%B1%B1%E5%85%B3%E7%BA%A2%E5%86%9B%E6%88%98%E6%96%97%E9%81%97%E5%9D%80_20140809-A.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E5%A8%84%E5%B1%B1%E5%85%B3%E7%BA%A2%E5%86%9B%E6%88%98%E6%96%97%E9%81%97%E5%9D%80_20140809-A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/%E5%A8%84%E5%B1%B1%E5%85%B3%E7%BA%A2%E5%86%9B%E6%88%98%E6%96%97%E9%81%97%E5%9D%80_20140809-A.jpg/1280px-%E5%A8%84%E5%B1%B1%E5%85%B3%E7%BA%A2%E5%86%9B%E6%88%98%E6%96%97%E9%81%97%E5%9D%80_20140809-A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "娄山关红军战斗遗址 20140809-A.jpg",
+    "originalDescription": "巡道工出品 Photo by Xundaogong 210国道骑行 松坎-遵义",
+    "changes": "Resized and encoded as WebP. The complete source framing is retained; UI thumbnails may crop. Distributed under the source licence.",
+    "downloadSha256": "a379fa8d6cb6ab8cd92c9bc6171d9722d91cc306bb722a5fda206cc7e1ad2adc",
+    "sha256": "af41d13f0ba77cc81897b7449ba23d6022592cdb78301d3dd5b270f3c2a46ef6",
+    "size": [
+      1280,
+      854
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "liupan-landscape",
+    "title": "六盘山远眺",
+    "caption": "宁夏六盘山 · 2026年冬季山地实景",
+    "kind": "区域环境",
+    "eventIds": [
+      "r1-liupan"
+    ],
+    "file": "./assets/photos/liupan-landscape.webp",
+    "date": "2026-02-01",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liupan_Mountains_from_the_observation_deck_(20260201152712).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Liupan_Mountains_from_the_observation_deck_%2820260201152712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Liupan_Mountains_from_the_observation_deck_%2820260201152712%29.jpg/1280px-Liupan_Mountains_from_the_observation_deck_%2820260201152712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "Liupan Mountains from the observation deck (20260201152712).jpg",
+    "originalDescription": "Some remaining snow.",
+    "changes": "Resized and encoded as WebP. The complete source framing is retained; UI thumbnails may crop. Distributed under the source licence.",
+    "downloadSha256": "4b7f9ea4b2a53cb971339fa3484eda54c51684084fd5b3c08c6520d4366c92dc",
+    "sha256": "ea17515c5ec200da5c3d22afe54397e9753932cb1a9c10ef8b25a2923e3c60b8",
+    "size": [
+      1280,
+      853
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "liupan-hall",
+    "title": "六盘山红军长征纪念馆",
+    "caption": "宁夏六盘山 · 红军长征纪念馆今景",
+    "kind": "纪念设施",
+    "eventIds": [
+      "r1-liupan"
+    ],
+    "file": "./assets/photos/liupan-hall.webp",
+    "date": "2026-02-01",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liupanshan_Red_Army_Long_March_Memorial_Hall_(20260201154058).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Liupanshan_Red_Army_Long_March_Memorial_Hall_%2820260201154058%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Liupanshan_Red_Army_Long_March_Memorial_Hall_%2820260201154058%29.jpg/1280px-Liupanshan_Red_Army_Long_March_Memorial_Hall_%2820260201154058%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "Liupanshan Red Army Long March Memorial Hall (20260201154058).jpg",
+    "originalDescription": "With The Elder's signature.",
+    "changes": "Resized and encoded as WebP. The complete source framing is retained; UI thumbnails may crop. Distributed under the source licence.",
+    "downloadSha256": "daaa64c5214c2caee9d199e01c255ceacc9e1d29a93f226425bbbcb15447153c",
+    "sha256": "5123fa6eb3c7013ab59dad2d9a97ce3fdf6fb28f8d09dcf68491162a7c5adeda",
+    "size": [
+      1280,
+      853
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "zunyi-courtyard",
+    "title": "遵义会议会址院落",
+    "caption": "贵州遵义 · 从纪念馆楼上拍摄的会址院落",
+    "kind": "旧址实拍",
+    "eventIds": [
+      "r1-zunyi",
+      "r1-zunyibattle"
+    ],
+    "file": "./assets/photos/zunyi-courtyard.webp",
+    "date": "2019-04-18",
+    "author": "Augusthaiho",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%81%B5%E4%B9%89%E4%BC%9A%E5%9D%8005231.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/%E9%81%B5%E4%B9%89%E4%BC%9A%E5%9D%8005231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/%E9%81%B5%E4%B9%89%E4%BC%9A%E5%9D%8005231.jpg/1280px-%E9%81%B5%E4%B9%89%E4%BC%9A%E5%9D%8005231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "遵义会址05231.jpg",
+    "originalDescription": "​遵义会址 纪念馆楼上拍摄",
+    "changes": "Resized and encoded as WebP. The complete source framing is retained; UI thumbnails may crop. Distributed under the source licence.",
+    "downloadSha256": "294bf0be8e80af0a2fe5177bed81246957526ee35edbfef56f36ef56d297dd41",
+    "sha256": "36e7feb6ecae65100c137ae8b5ee4ea7d162d3dd61a1f453c07ff2ffa2dad8d9",
+    "size": [
+      1280,
+      853
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "yudu-first-ferry",
+    "title": "于都长征出发地纪念园",
+    "caption": "江西于都 · 东门外渡口区域的出发地纪念园",
+    "kind": "纪念设施",
+    "eventIds": [
+      "r1-yudu"
+    ],
+    "file": "./assets/photos/yudu-first-ferry.webp",
+    "date": "2014-05-30",
+    "author": "Zhangzhugang",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yudu_Zhongyang_Hongjun_Changzheng_Diyi_Dukou_2014.05.30_11-05-37.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Yudu_Zhongyang_Hongjun_Changzheng_Diyi_Dukou_2014.05.30_11-05-37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Yudu_Zhongyang_Hongjun_Changzheng_Diyi_Dukou_2014.05.30_11-05-37.jpg/1280px-Yudu_Zhongyang_Hongjun_Changzheng_Diyi_Dukou_2014.05.30_11-05-37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "Yudu Zhongyang Hongjun Changzheng Diyi Dukou 2014.05.30 11-05-37.jpg",
+    "originalDescription": "于都县中央红军长征出发地旧址——中央红军长征第一渡口（东门外渡口），中央红军长征出发地纪念园",
+    "changes": "Resized and encoded as WebP. The complete source framing is retained; UI thumbnails may crop. Distributed under the source licence.",
+    "downloadSha256": "b32f50f8188c3a7b6301cb548f58b952927b0e36d9181b8b1ded3742bafbbf64",
+    "sha256": "27921664f5767aa771f93dcaf6b82318189420f5386eb57845b8064573990391",
+    "size": [
+      1280,
+      853
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "luding-west",
+    "title": "泸定桥西岸视角",
+    "caption": "四川泸定 · 从西岸拍摄的大渡河与泸定桥",
+    "kind": "旧址实拍",
+    "eventIds": [
+      "r1-luding"
+    ],
+    "file": "./assets/photos/luding-west.webp",
+    "date": "2026-02-05",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luding_Bridge_from_the_west_(20260205115349).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Luding_Bridge_from_the_west_%2820260205115349%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Luding_Bridge_from_the_west_%2820260205115349%29.jpg/1280px-Luding_Bridge_from_the_west_%2820260205115349%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "Luding Bridge from the west (20260205115349).jpg",
+    "originalDescription": "Still thrilling.",
+    "changes": "Resized and encoded as WebP. The complete source framing is retained; UI thumbnails may crop. Distributed under the source licence.",
+    "downloadSha256": "5e8b9ce91764e60def5cdb17fdb7f4c3872f0b1b8b31e5114cb91d59adb503da",
+    "sha256": "20264de178fc9e3ea3fd21fd0165db617e7f7265e1cfd53db582de7c1637e136",
+    "size": [
+      1280,
+      853
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  },
+  {
+    "id": "jiangtai",
+    "title": "将台堡会师纪念碑",
+    "caption": "宁夏西吉将台堡 · 红军会师纪念设施今景",
+    "kind": "纪念设施",
+    "eventIds": [
+      "r2-jiangtai"
+    ],
+    "file": "./assets/photos/jiangtai.webp",
+    "date": "2026-02-01",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monument_to_the_Joining_of_Red_Army_Forces_at_Jiangtaibu_(20260201175443).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Monument_to_the_Joining_of_Red_Army_Forces_at_Jiangtaibu_%2820260201175443%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Monument_to_the_Joining_of_Red_Army_Forces_at_Jiangtaibu_%2820260201175443%29.jpg/1280px-Monument_to_the_Joining_of_Red_Army_Forces_at_Jiangtaibu_%2820260201175443%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalTitle": "Monument to the Joining of Red Army Forces at Jiangtaibu (20260201175443).jpg",
+    "originalDescription": "On 22 October 1936, the Second Front Army joined forces with the First Front Army at Jiangtaibu, Xiji, Guyuan.",
+    "changes": "Resized and encoded as WebP. The complete source framing is retained; UI thumbnails may crop. Distributed under the source licence.",
+    "downloadSha256": "b643679bb137bafe3ed0009c00f4022e2917facd9e8d42d9e730c64cebace672",
+    "sha256": "7062150c2a79a4185f01e82637b5cb1ab6b3633e460b8248d56e9da99b7e03d7",
+    "size": [
+      1280,
+      853
+    ],
+    "historicalStatus": "Modern photograph, not a photograph taken during the Long March"
+  }
+]

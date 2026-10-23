@@ -1,0 +1,36 @@
+{
+  "id": "detail-117-31",
+  "file": "./assets/terrain/detail-117-31.webp",
+  "bounds": [
+    117,
+    31,
+    121,
+    35
+  ],
+  "size": [
+    1536,
+    1536
+  ],
+  "crs": "EPSG:4326",
+  "sha256": "04e8f5bef1c8577ffb54c9d2c38fd942a0f208775b485fb9a9fcc408996337c2",
+  "inputs": [
+    {
+      "layer": "SRTM_Color_Index",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=SRTM_Color_Index&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=117%2C31%2C121%2C35&width=1536&height=1536",
+      "sha256": "a4120d0217cf96e64b646d6d7b584e52aaf38e3d107ff02c67cba1d5ea0c801b",
+      "requestedYear": null
+    },
+    {
+      "layer": "MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=117%2C31%2C121%2C35&width=1536&height=1536&time=2022-01-01",
+      "sha256": "6eacced07d11cc540aaf5dc255b69546718ce1ed0ed38b3f8d6568edbfb2bea9",
+      "requestedYear": "2022"
+    },
+    {
+      "layer": "ASTER_GDEM_Greyscale_Shaded_Relief",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=ASTER_GDEM_Greyscale_Shaded_Relief&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=117%2C31%2C121%2C35&width=1536&height=1536",
+      "sha256": "c036d2809673075d2bb1a9d711f538fef890603ab91915e124bf5a87e8f8e0c2",
+      "requestedYear": null
+    }
+  ]
+}

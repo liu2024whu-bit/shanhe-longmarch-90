@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self'; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'none'">
+  <meta name="theme-color" content="#f4eee3">
+  <title>山河为证 · 长征路线与时代回响</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Crect width='48' height='48' rx='4' fill='%23ae3028'/%3E%3Cpath d='m24 7 4.5 11.8 12.5.7-9.7 7.8 3.2 12.1L24 32.5l-10.5 6.9 3.2-12.1L7 19.5l12.5-.7Z' fill='%23f7efdd'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./vendor/leaflet/leaflet.css">
+  <link rel="preload" href="./assets/fonts/ShanheBrush-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./editorial.css">
+  <link rel="stylesheet" href="./atlas.css">
+  <link rel="stylesheet" href="./journey.css">
+  <link rel="stylesheet" href="./expedition.css">
+  <link rel="stylesheet" href="./folio.css">
+  <link rel="stylesheet" href="./chapters.css">
+  <link rel="stylesheet" href="./reading.css">
+  <link rel="stylesheet" href="./epic.css">
+  <link rel="stylesheet" href="./witness.css">
+  <script defer src="./vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="./src/app.js"></script>
+</head>
+<body>
+<div class="atlas" id="atlas">
+  <header class="masthead">
+    <div class="masthead-main">
+    <a class="brand" href="./" aria-label="山河为证，回到首页"><span class="brand-seal" aria-hidden="true">山<br>河</span><span><strong>山河为<span>证</span></strong><small>长征路线与时代回响</small></span></a>
+    <nav class="chapters" aria-label="地图章节">
+      <button class="chapter active" data-chapter="overview" aria-current="page"><span>01</span>征途总览</button>
+      <button class="chapter" data-chapter="battles"><span>02</span>转折与战役</button>
+      <button class="chapter" data-chapter="stories"><span>03</span>征途故事</button>
+      <button class="chapter" data-chapter="memory"><span>04</span>精神与回响</button>
+    </nav>
+    <div class="masthead-end"><button class="anniversary" data-read-significance aria-label="纪念长征胜利90周年，阅读长征的意义" title="长征胜利90周年 · 阅读长征的意义"><span class="anniversary-title">纪念长征胜利</span><span class="anniversary-line"><b>90</b><span>周年</span><time>1936—2026</time></span></button><button class="source-open text-button" data-open-films aria-label="影像长征，纪录片与动画延伸观看"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="m10 8 6 4-6 4Z"/></svg><span>影像长征</span></button><button class="source-open text-button" id="sources-open" aria-label="资料与来源"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h10l4 4v14H5Z M14 3v5h5 M8 12h8 M8 16h6"/></svg><span>资料与来源</span></button></div>
+    </div>
+    <nav class="atlas-commandbar" aria-label="路线与地图操作">
+      <div class="route-controls"><span class="command-label" id="route-controls-label">行军路线</span><div class="unit-switcher" id="unit-switcher" aria-label="按部队查看路线"></div><span class="chapter-context" id="chapter-context" hidden></span></div>
+      <div class="view-controls">
+        <div class="basemap-switch" aria-label="选择地图底图"><button data-basemap="terrain" class="active" aria-pressed="true">山川地势</button><button data-basemap="modern" aria-pressed="false">今日地理</button></div>
+        <details class="command-menu army-menu" id="army-menu"><summary><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h11v9H4Z M4 3v18 M15 7h5v9h-5"/></svg><span>各军进程</span><small id="army-status-summary">共同时间</small><span class="menu-chevron">⌄</span></summary><section class="army-progress" id="army-progress" aria-label="各军同期进程"></section></details>
+        <details class="command-menu legend-menu" id="legend-menu"><summary><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h5v5H4Z M13 7h7 M4 15h5v5H4Z M13 17h7"/></svg><span>图例</span><span class="menu-chevron">⌄</span></summary><div class="legend-sheet"><section class="terrain-key" id="terrain-key"><h3>读山河</h3><div class="height-colors"></div><p><span>低地</span><span>丘陵</span><span>高原</span><span>高山</span></p><div class="cover-key"><i class="forest"></i>林地<i class="grass"></i>草地<i class="wetland"></i>湿地<i class="snow"></i>冰雪</div><button data-sources="G07,G08">地形与地表的来处 ↗</button></section><div class="reading-key" id="reading-key"><span class="key-line sourced"></span>史料地点链<span class="key-line"></span>区域概括<span class="key-dot"></span>历史节点</div></div></details>
+        <details class="command-menu tools-menu" id="map-tool-menu"><summary><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18 M12 3v18 M19 3v18 M2 8h6 M9 16h6 M16 10h6"/></svg><span>地图工具</span><span class="menu-chevron">⌄</span></summary><div class="map-tools" aria-label="地图工具">
+          <button id="panel-toggle" title="收起史事" aria-label="收起史事" aria-pressed="true"><svg viewBox="0 0 24 24"><path d="M4 4h16v16H4Z M10 4v16 m6-12-3 4 3 4"/></svg><span id="panel-tool-label">收起史事</span><small>阅读窗口</small></button>
+          <button id="fit-map" title="回到本章全貌" aria-label="回到本章全貌"><svg viewBox="0 0 24 24"><path d="M9 4H4v5 M15 4h5v5 M20 15v5h-5 M9 20H4v-5"/></svg><span>回到全貌</span><small>重置视野</small></button>
+          <button id="labels-toggle" title="切换地名" aria-label="切换地名" aria-pressed="true"><svg viewBox="0 0 24 24"><path d="M5 5h14 M12 5v15 M8 20h8"/></svg><span>地名标注</span><small>显示 / 收起</small></button>
+          <button id="photos-open" title="沿途影像" aria-label="沿途影像"><svg viewBox="0 0 24 24"><path d="M3 5h18v15H3Z m1 12 5-6 4 4 3-3 5 6 M17 9h.1"/></svg><span>沿途影像</span><small>旧址与山河</small></button>
+          <button id="fullscreen-map" title="全屏看山河" aria-label="全屏看山河"><svg viewBox="0 0 24 24"><path d="M3 9V3h6 M15 3h6v6 M21 15v6h-6 M9 21H3v-6"/></svg><span>全屏山河</span><small>沉浸阅读</small></button>
+        </div></details>
+      </div>
+    </nav>
+  </header>
+  <main class="workspace">
+    <aside class="story-rail" id="story-rail" aria-label="路线与历史事件"></aside>
+    <button class="rail-reopen" id="rail-reopen" aria-label="展开史事窗口"><span>★</span> 展开史事</button>
+    <section class="map-stage" id="map-stage" aria-label="长征交互地图">
+      <div id="map" aria-label="可拖动和缩放的地理地图"></div>
+      <div class="map-caption" id="map-caption"><span class="map-caption-rule"></span><span id="map-caption-text">各路红军 · 主要行军走向</span></div>
+      <div class="map-signature" aria-hidden="true"><span class="signature-kicker">万水千山 · 征途如虹</span><strong>长征</strong><span class="signature-seal">不忘初心</span><small>一九三四 — 一九三六</small></div>
+      <div class="north-mark" aria-hidden="true"><span>N</span><svg viewBox="0 0 24 40"><path d="M12 1 22 34 12 26 2 34Z"/><path d="M12 1v25"/></svg></div>
+      <div id="scene-overlay" class="scene-overlay"></div>
+      <article class="milestone-callout" id="milestone-callout" hidden aria-live="polite"></article>
+      <section class="playback-dock" id="playback-dock" aria-label="事件序列"></section>
+      <div class="map-attribution">地形 NASA GIBS · 水系与现代省界 Natural Earth · 地点 GeoNames</div>
+    </section>
+    <aside class="context-drawer" id="context-drawer" aria-labelledby="context-title" hidden>
+      <header class="context-heading"><h2 id="context-title">各军进程</h2><small>山河为证 · 随图阅读</small><button id="context-close" aria-label="收起侧栏">×</button></header>
+      <div id="context-content"></div>
+    </aside>
+  </main>
+  <footer class="page-footer"><span>循着路线读历史，在山河之间见精神。</span><span>1934 — 1936</span></footer>
+</div>
+<dialog id="sources-dialog" aria-labelledby="sources-title">
+  <div class="sources-header"><div><p>每一段历史，都有来处</p><h2 id="sources-title">资料与来源</h2></div><button class="dialog-close" id="sources-close" aria-label="关闭资料与来源"><svg viewBox="0 0 24 24"><path d="m5 5 14 14 M19 5 5 19"/></svg></button></div>
+  <div class="source-tabs"><button data-source-tab="history" class="active">历史资料</button><button data-source-tab="geography">地理数据</button><button data-source-tab="photos">影像出处</button></div>
+  <div id="sources-body" class="sources-body"></div>
+  <div class="sources-footer"><span>以所列资料支持的范围呈现</span><button id="download-events">下载节点资料表 <svg viewBox="0 0 24 24"><path d="M12 3v12 m-5-5 5 5 5-5 M5 16v5h14v-5"/></svg></button></div>
+</dialog>
+<dialog id="photo-dialog" aria-labelledby="photo-title"><button id="photo-close" class="photo-close" aria-label="关闭照片">×</button><div id="photo-content"></div><div class="photo-navigation"><button id="photo-prev" aria-label="上一幅照片">←</button><span id="photo-count"></span><button id="photo-next" aria-label="下一幅照片">→</button></div></dialog>
+<dialog id="history-dialog" aria-labelledby="history-title"><button id="history-close" class="reader-close" aria-label="收起历史故事">×</button><div id="history-content"></div></dialog>
+<div id="app-status" class="app-status" role="status">正在展开山河与征途…</div>
+</body>
+</html>

@@ -1,0 +1,37 @@
+{
+  "id": "focus-lazikou",
+  "file": "./assets/terrain/focus-lazikou.webp",
+  "bounds": [
+    102.9,
+    33.7,
+    104.9,
+    35.7
+  ],
+  "size": [
+    2048,
+    2048
+  ],
+  "crs": "EPSG:4326",
+  "sha256": "10cc7aa2d6d799ad9532828a13dd427bb32b94b7e6a208781a84af5fa2ad695f",
+  "inputs": [
+    {
+      "layer": "SRTM_Color_Index",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=SRTM_Color_Index&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=102.9%2C33.7%2C104.9%2C35.7&width=2048&height=2048",
+      "sha256": "0a425ec7b62fb4b4693344b1dfb4a5343632011da69aa511425b0d8f12fc82c1",
+      "requestedYear": null
+    },
+    {
+      "layer": "MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=102.9%2C33.7%2C104.9%2C35.7&width=2048&height=2048&time=2022-01-01",
+      "sha256": "0ec2e43510bc28146a262cbb996f92d782ccf679b852270f53e6aa2a1975a1b9",
+      "requestedYear": "2022"
+    },
+    {
+      "layer": "ASTER_GDEM_Greyscale_Shaded_Relief",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=ASTER_GDEM_Greyscale_Shaded_Relief&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=102.9%2C33.7%2C104.9%2C35.7&width=2048&height=2048",
+      "sha256": "d4d0fdfda505140b37dd7a982ad09e824897e234ed6ed99557d2e706fcf8d8da",
+      "requestedYear": null
+    }
+  ],
+  "blendMarginPixels": 128
+}

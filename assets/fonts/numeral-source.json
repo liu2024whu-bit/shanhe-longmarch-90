@@ -1,0 +1,11 @@
+{
+  "family": "Shanhe Numerals",
+  "originalFamily": "Barlow Condensed",
+  "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/BarlowCondensed-Medium.ttf",
+  "license": "SIL Open Font License 1.1",
+  "originalSha256": "262bd143292ce479ee0cd09a42b47ab173fca8e9c6eb5ed0b5c8a845bc371d17",
+  "changes": "Numeric glyph subset, renamed family and WOFF2 conversion",
+  "characters": "0123456789",
+  "preparedAt": "2026-10-22",
+  "bytes": 4864
+}

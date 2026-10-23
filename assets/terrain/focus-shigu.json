@@ -1,0 +1,37 @@
+{
+  "id": "focus-shigu",
+  "file": "./assets/terrain/focus-shigu.webp",
+  "bounds": [
+    99.2,
+    26.3,
+    101.2,
+    28.3
+  ],
+  "size": [
+    2048,
+    2048
+  ],
+  "crs": "EPSG:4326",
+  "sha256": "eba0d3158e45e9b2fa1352735020efdaea93eb8eaa3fbd91466f03bd83fbb1d6",
+  "inputs": [
+    {
+      "layer": "SRTM_Color_Index",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=SRTM_Color_Index&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=99.2%2C26.3%2C101.2%2C28.3&width=2048&height=2048",
+      "sha256": "c8d8351f39950c8e019d9a0079360bf72357e193b5d88a358ffaac422cae6f50",
+      "requestedYear": null
+    },
+    {
+      "layer": "MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=99.2%2C26.3%2C101.2%2C28.3&width=2048&height=2048&time=2022-01-01",
+      "sha256": "d07c62444422080fff280e5b0f913e9e1b065e70c961042a7423c8fd7e43ed4a",
+      "requestedYear": "2022"
+    },
+    {
+      "layer": "ASTER_GDEM_Greyscale_Shaded_Relief",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=ASTER_GDEM_Greyscale_Shaded_Relief&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=99.2%2C26.3%2C101.2%2C28.3&width=2048&height=2048",
+      "sha256": "561c53901a307584ca1bfc1f48cedc88c721c15c9093777eb5c60da3059cc650",
+      "requestedYear": null
+    }
+  ],
+  "blendMarginPixels": 128
+}

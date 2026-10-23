@@ -1,0 +1,37 @@
+{
+  "id": "focus-xiangjiang",
+  "file": "./assets/terrain/focus-xiangjiang.webp",
+  "bounds": [
+    109.9,
+    25.2,
+    111.9,
+    27.2
+  ],
+  "size": [
+    2048,
+    2048
+  ],
+  "crs": "EPSG:4326",
+  "sha256": "b0cc1dce23e3996e70f997cb09ccb7ccf23f3fbeb486694f122067e79af9f366",
+  "inputs": [
+    {
+      "layer": "SRTM_Color_Index",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=SRTM_Color_Index&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=109.9%2C25.2%2C111.9%2C27.2&width=2048&height=2048",
+      "sha256": "539a952598457c438065325f95813aa01348cbd200d74be446c1597e67b44282",
+      "requestedYear": null
+    },
+    {
+      "layer": "MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=109.9%2C25.2%2C111.9%2C27.2&width=2048&height=2048&time=2022-01-01",
+      "sha256": "60f9701f09d770adcad732b4b3e9e3000079948c425f0b77de1251ab57323726",
+      "requestedYear": "2022"
+    },
+    {
+      "layer": "ASTER_GDEM_Greyscale_Shaded_Relief",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=ASTER_GDEM_Greyscale_Shaded_Relief&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=109.9%2C25.2%2C111.9%2C27.2&width=2048&height=2048",
+      "sha256": "0bf044fcb2d59b147a6cef4665164f14c8fc51bd4506601584f7f6a5f85eecb5",
+      "requestedYear": null
+    }
+  ],
+  "blendMarginPixels": 128
+}

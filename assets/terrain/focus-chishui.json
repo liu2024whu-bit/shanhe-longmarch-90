@@ -1,0 +1,37 @@
+{
+  "id": "focus-chishui",
+  "file": "./assets/terrain/focus-chishui.webp",
+  "bounds": [
+    105.3,
+    27.1,
+    107.3,
+    29.1
+  ],
+  "size": [
+    2048,
+    2048
+  ],
+  "crs": "EPSG:4326",
+  "sha256": "158fc4b1f08a3fa0564c3c3e51c95e187c548aace657fb82eeb9a74df1b77ce2",
+  "inputs": [
+    {
+      "layer": "SRTM_Color_Index",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=SRTM_Color_Index&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=105.3%2C27.1%2C107.3%2C29.1&width=2048&height=2048",
+      "sha256": "538a2a538a7241268bd4dbcb8594d1a1e0a6f7ee104c8798d09bc2a44e631732",
+      "requestedYear": null
+    },
+    {
+      "layer": "MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=105.3%2C27.1%2C107.3%2C29.1&width=2048&height=2048&time=2022-01-01",
+      "sha256": "865765bfaacaf5d7568fc8166877a80e8b9974ae5f3d37dc4fd34eca40104665",
+      "requestedYear": "2022"
+    },
+    {
+      "layer": "ASTER_GDEM_Greyscale_Shaded_Relief",
+      "url": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?service=WMS&request=GetMap&version=1.1.1&layers=ASTER_GDEM_Greyscale_Shaded_Relief&styles=&format=image%2Fpng&srs=EPSG%3A4326&bbox=105.3%2C27.1%2C107.3%2C29.1&width=2048&height=2048",
+      "sha256": "18b983ec449a306fefc9a1b781781265c8da5358d30a344fecd80b4023e1bca4",
+      "requestedYear": null
+    }
+  ],
+  "blendMarginPixels": 128
+}

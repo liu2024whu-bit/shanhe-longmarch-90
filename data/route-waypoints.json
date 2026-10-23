@@ -1,0 +1,1712 @@
+{
+  "xinfeng": {
+    "name": "信丰",
+    "matchedName": "Jiading",
+    "geonameId": "1806509",
+    "lon": 114.92201,
+    "lat": 25.39215,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.82,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "dayu": {
+    "name": "大余",
+    "matchedName": "Nan’an",
+    "geonameId": "1800198",
+    "lon": 114.3569,
+    "lat": 25.40381,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.81,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "chongyi": {
+    "name": "崇义",
+    "matchedName": "Hengshui",
+    "geonameId": "1808399",
+    "lon": 114.31667,
+    "lat": 25.7,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.3,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "rucheng": {
+    "name": "汝城",
+    "matchedName": "Rucheng Chengguanzhen",
+    "geonameId": "1797076",
+    "lon": 113.71547,
+    "lat": 25.53641,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 3.87,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "yizhang": {
+    "name": "宜章",
+    "matchedName": "Yizhang Chengguanzhen",
+    "geonameId": "1786412",
+    "lon": 112.97897,
+    "lat": 25.38323,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 3.46,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "chengkou-renhua": {
+    "name": "城口（仁化）",
+    "matchedName": "Chengkou",
+    "geonameId": "1815240",
+    "lon": 113.73965,
+    "lat": 25.32173,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 20.16,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "linwu": {
+    "name": "临武",
+    "matchedName": "Linwu Chengguanzhen",
+    "geonameId": "1803340",
+    "lon": 112.53981,
+    "lat": 25.23247,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 5.38,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "lanshan": {
+    "name": "蓝山",
+    "matchedName": "Tafeng",
+    "geonameId": "1804463",
+    "lon": 112.18987,
+    "lat": 25.35407,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.77,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "daoxian": {
+    "name": "道县",
+    "matchedName": "Daojiang",
+    "geonameId": "1813777",
+    "lon": 111.55146,
+    "lat": 25.49603,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 6.16,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "laoshanjie": {
+    "name": "老山界一带",
+    "lon": 110.49,
+    "lat": 25.87,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "longsheng": {
+    "name": "龙胜",
+    "matchedName": "Longsheng",
+    "geonameId": "1802431",
+    "lon": 110.00517,
+    "lat": 25.79979,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.48,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jianhe": {
+    "name": "剑河",
+    "lon": 108.85,
+    "lat": 26.64,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "taijiang": {
+    "name": "台江",
+    "matchedName": "Taigong",
+    "geonameId": "1793693",
+    "lon": 108.31694,
+    "lat": 26.67444,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.58,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "huangping": {
+    "name": "黄平",
+    "matchedName": "Huangping",
+    "geonameId": "1788456",
+    "lon": 107.89604,
+    "lat": 26.90248,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.48,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "houchang": {
+    "name": "猴场",
+    "lon": 107.49,
+    "lat": 27.19,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "jiangjiehe": {
+    "name": "江界河一带",
+    "matchedName": "Jiangjiehe",
+    "geonameId": "1806350",
+    "lon": 107.402,
+    "lat": 27.3148,
+    "feature": "PPL",
+    "referenceOffsetKm": 9.7,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "tongzi": {
+    "name": "桐梓",
+    "matchedName": "Loushanguan",
+    "geonameId": "1792516",
+    "lon": 106.822,
+    "lat": 28.1368,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.09,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xishui": {
+    "name": "习水一带",
+    "matchedName": "Donghuang",
+    "geonameId": "1812486",
+    "lon": 106.21557,
+    "lat": 28.33297,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.56,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xuyong": {
+    "name": "叙永一带",
+    "matchedName": "Xuyong",
+    "geonameId": "1787828",
+    "lon": 105.43452,
+    "lat": 28.16992,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.54,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "moni": {
+    "name": "摩泥",
+    "matchedName": "Moni",
+    "geonameId": "1800385",
+    "lon": 105.59711,
+    "lat": 27.85129,
+    "feature": "PPL",
+    "referenceOffsetKm": 6.65,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "gulin": {
+    "name": "古蔺一带",
+    "matchedName": "Gulin",
+    "geonameId": "1809408",
+    "lon": 105.81038,
+    "lat": 28.04223,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.25,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "loushanguan": {
+    "name": "娄山关",
+    "lon": 106.8535822,
+    "lat": 28.0263083,
+    "osmType": "node",
+    "osmId": 3372229315,
+    "sourceId": "G06",
+    "coordinateMeaning": "modern mountain pass reference, not a surveyed 1935 battlefield",
+    "disambiguation": "Explicit mountain_pass=yes; excludes the Tongzi town and railway station with the same name"
+  },
+  "banqiao": {
+    "name": "板桥（遵义）",
+    "matchedName": "Banqiao",
+    "geonameId": "1817040",
+    "lon": 106.90528,
+    "lat": 27.97611,
+    "feature": "PPL",
+    "referenceOffsetKm": 4.72,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "yaxi": {
+    "name": "鸭溪",
+    "matchedName": "Yaxi",
+    "geonameId": "1786851",
+    "lon": 106.66528,
+    "lat": 27.58111,
+    "feature": "PPL",
+    "referenceOffsetKm": 6.51,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "bailakan": {
+    "name": "白腊坎",
+    "matchedName": "Bailakan",
+    "geonameId": "1817612",
+    "lon": 106.603,
+    "lat": 27.5805,
+    "feature": "PPL",
+    "referenceOffsetKm": 11.3,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "luban": {
+    "name": "鲁班场一带",
+    "lon": 106.36,
+    "lat": 27.72,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "zhenlong": {
+    "name": "镇龙山（龙山）",
+    "matchedName": "Longshan",
+    "geonameId": "1802444",
+    "lon": 105.93617,
+    "lat": 27.97282,
+    "feature": "PPL",
+    "referenceOffsetKm": 3.89,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "dacun": {
+    "name": "大村",
+    "matchedName": "Dacun",
+    "geonameId": "1814500",
+    "lon": 106.14747,
+    "lat": 28.02031,
+    "feature": "PPL",
+    "referenceOffsetKm": 22.94,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "erlang": {
+    "name": "二郎滩一带",
+    "matchedName": "Erlang",
+    "geonameId": "6912719",
+    "lon": 106.15843,
+    "lat": 28.12602,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.47,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "sanhe": {
+    "name": "三合（仁怀）",
+    "matchedName": "Sanhe",
+    "geonameId": "1796829",
+    "lon": 106.34801,
+    "lat": 28.06909,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 1.28,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "daba": {
+    "name": "大坝（仁怀）",
+    "matchedName": "Daba",
+    "geonameId": "1814627",
+    "lon": 106.42788,
+    "lat": 28.01605,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 1.8,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "gaodaping": {
+    "name": "高大坪",
+    "lon": 106.48,
+    "lat": 27.9,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "xitou": {
+    "name": "喜头",
+    "matchedName": "Xitoutai",
+    "geonameId": "1788275",
+    "lon": 106.51472,
+    "lat": 27.92611,
+    "feature": "PPL",
+    "referenceOffsetKm": 13.15,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "gouba": {
+    "name": "苟坝—马鬃岭一带",
+    "lon": 106.5,
+    "lat": 27.68,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "shatu": {
+    "name": "沙土",
+    "matchedName": "Shatu",
+    "geonameId": "1795789",
+    "lon": 106.61111,
+    "lat": 27.41139,
+    "feature": "PPL",
+    "referenceOffsetKm": 20.98,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "wujiangkou": {
+    "name": "江口（乌江）",
+    "matchedName": "Jiangkou",
+    "geonameId": "10023379",
+    "lon": 106.586,
+    "lat": 27.2516,
+    "feature": "PPL",
+    "referenceOffsetKm": 5.41,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xifeng": {
+    "name": "息烽",
+    "matchedName": "Yongjing",
+    "geonameId": "1786324",
+    "lon": 106.72667,
+    "lat": 27.10639,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.78,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "zhazuo": {
+    "name": "扎佐",
+    "matchedName": "Zhazuo",
+    "geonameId": "1784784",
+    "lon": 106.71667,
+    "lat": 26.86667,
+    "feature": "PPL",
+    "referenceOffsetKm": 2.98,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "guiyang": {
+    "name": "贵阳以东一带",
+    "lon": 106.9,
+    "lat": 26.57,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "xingyi": {
+    "name": "兴义一带",
+    "matchedName": "Xingyi",
+    "geonameId": "1807566",
+    "lon": 104.90639,
+    "lat": 25.09617,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.77,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "panxian": {
+    "name": "盘县（今盘州一带）",
+    "matchedName": "Panxian",
+    "geonameId": "1799007",
+    "lon": 104.65,
+    "lat": 25.76667,
+    "feature": "PPL",
+    "referenceOffsetKm": 1.48,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "fuyuan": {
+    "name": "平彝（今富源）",
+    "matchedName": "Zhong’an",
+    "geonameId": "1784477",
+    "lon": 104.23333,
+    "lat": 25.66667,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 2.7,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "zhanyi": {
+    "name": "沾益",
+    "matchedName": "Xiping",
+    "geonameId": "1784969",
+    "lon": 103.79613,
+    "lat": 25.59784,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 2.41,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "malong": {
+    "name": "马龙",
+    "matchedName": "Tongquan",
+    "geonameId": "1792594",
+    "lon": 103.56667,
+    "lat": 25.4,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 3.59,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xundian": {
+    "name": "寻甸",
+    "matchedName": "Rende",
+    "geonameId": "1797034",
+    "lon": 103.27604,
+    "lat": 25.55821,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 2.62,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "kedu": {
+    "name": "柯渡",
+    "lon": 102.89,
+    "lat": 25.52,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "luquan": {
+    "name": "禄劝",
+    "matchedName": "Pingshan",
+    "geonameId": "1798710",
+    "lon": 102.47581,
+    "lat": 25.51985,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 4.5,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "huili": {
+    "name": "会理",
+    "matchedName": "Huili Chengguanzhen",
+    "geonameId": "1806854",
+    "lon": 102.24392,
+    "lat": 26.66256,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.67,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "dechang": {
+    "name": "德昌",
+    "matchedName": "Dezhou",
+    "geonameId": "1812956",
+    "lon": 102.18001,
+    "lat": 27.40809,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.9,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "yimen-huili": {
+    "name": "益门（会理）",
+    "matchedName": "Yimen",
+    "geonameId": "1786670",
+    "lon": 102.28454,
+    "lat": 26.86829,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "baiguowan-huili": {
+    "name": "白果湾（会理）",
+    "matchedName": "Baiguowan",
+    "geonameId": "6962006",
+    "lon": 102.27758,
+    "lat": 26.89783,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "lizhou": {
+    "name": "礼州",
+    "matchedName": "Lizhou",
+    "geonameId": "1802741",
+    "lon": 102.17591,
+    "lat": 28.05391,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.79,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "lugu": {
+    "name": "泸沽",
+    "matchedName": "Lugu",
+    "geonameId": "1802117",
+    "lon": 102.1902,
+    "lat": 28.29782,
+    "feature": "PPL",
+    "referenceOffsetKm": 1.95,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "mianning": {
+    "name": "冕宁",
+    "matchedName": "Chengxiang",
+    "geonameId": "1800636",
+    "lon": 102.1682,
+    "lat": 28.55262,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.34,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "yihai": {
+    "name": "彝海一带",
+    "matchedName": "Yihai",
+    "geonameId": "6960854",
+    "lon": 102.2603,
+    "lat": 28.73332,
+    "feature": "PPL",
+    "referenceOffsetKm": 4.2,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "tuowu": {
+    "name": "拖乌",
+    "matchedName": "Tuowu",
+    "geonameId": "1792323",
+    "lon": 102.2788,
+    "lat": 28.80922,
+    "feature": "PPL",
+    "referenceOffsetKm": 8.44,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "liziping": {
+    "name": "栗子坪",
+    "matchedName": "Liziping",
+    "geonameId": "1802720",
+    "lon": 102.28188,
+    "lat": 28.99682,
+    "feature": "PPL",
+    "referenceOffsetKm": 5.66,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "yaoheba": {
+    "name": "姚河坝",
+    "matchedName": "Yaoheba",
+    "geonameId": "10199419",
+    "lon": 102.336,
+    "lat": 29.0943,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "tianwan-dadu": {
+    "name": "田湾（石棉）",
+    "matchedName": "Tianwanyizu",
+    "geonameId": "6962313",
+    "lon": 102.17548,
+    "lat": 29.44272,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "dewei": {
+    "name": "德威",
+    "matchedName": "Dewei",
+    "geonameId": "6976349",
+    "lon": 102.19971,
+    "lat": 29.70772,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "chuni": {
+    "name": "杵坭",
+    "matchedName": "Chuni",
+    "geonameId": "6976347",
+    "lon": 102.21306,
+    "lat": 29.81872,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "wajiao-dadu": {
+    "name": "挖角坝一带",
+    "matchedName": "Wajiaoyizuzangzu",
+    "geonameId": "6962322",
+    "lon": 102.24538,
+    "lat": 29.44332,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "wanggangping": {
+    "name": "王岗坪一带",
+    "matchedName": "Dawanggangping",
+    "geonameId": "6962321",
+    "lon": 102.30658,
+    "lat": 29.47432,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "detuo": {
+    "name": "得妥",
+    "matchedName": "Detuo",
+    "geonameId": "1812966",
+    "lon": 102.18724,
+    "lat": 29.58821,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "lengqi": {
+    "name": "冷碛",
+    "matchedName": "Lengqi",
+    "geonameId": "1804178",
+    "lon": 102.23328,
+    "lat": 29.79953,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "moxi": {
+    "name": "磨西",
+    "matchedName": "Moxi",
+    "geonameId": "1800364",
+    "lon": 102.13674,
+    "lat": 29.64794,
+    "feature": "PPL",
+    "referenceOffsetKm": 1.63,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "tianquan": {
+    "name": "天全",
+    "matchedName": "Chengxiang",
+    "geonameId": "1792905",
+    "lon": 102.75739,
+    "lat": 30.068,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.34,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "lushan": {
+    "name": "芦山",
+    "matchedName": "Luyang",
+    "geonameId": "1801667",
+    "lon": 102.92183,
+    "lat": 30.1561,
+    "feature": "PPL",
+    "referenceOffsetKm": 1.04,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "baoxing": {
+    "name": "宝兴",
+    "matchedName": "Muping",
+    "geonameId": "1816899",
+    "lon": 102.81223,
+    "lat": 30.37045,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.22,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "qiaoqi": {
+    "name": "硗碛",
+    "matchedName": "Qiaoqizangzu",
+    "geonameId": "1798157",
+    "lon": 102.7451,
+    "lat": 30.70028,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.49,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "dawei-transit": {
+    "name": "达维",
+    "matchedName": "Dawei",
+    "geonameId": "1813370",
+    "lon": 102.63413,
+    "lat": 30.96655,
+    "feature": "PPL",
+    "referenceOffsetKm": 14.81,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "danba": {
+    "name": "丹巴",
+    "matchedName": "Zhanggu",
+    "geonameId": "1785258",
+    "lon": 101.88848,
+    "lat": 30.86875,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.49,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xiaojin": {
+    "name": "懋功（今小金）",
+    "matchedName": "Meixing",
+    "geonameId": "1800792",
+    "lon": 102.36019,
+    "lat": 30.99907,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.1,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "lianghekou": {
+    "name": "两河口（小金）",
+    "matchedName": "Lianghekou",
+    "geonameId": "1787986",
+    "lon": 102.58006,
+    "lat": 31.20947,
+    "feature": "PPL",
+    "referenceOffsetKm": 2.98,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "mengbishan": {
+    "name": "梦笔山一带",
+    "lon": 102.46,
+    "lat": 31.66,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "zhuokeji": {
+    "name": "卓克基",
+    "matchedName": "Zhuokeji",
+    "geonameId": "1783862",
+    "lon": 102.28924,
+    "lat": 31.86852,
+    "feature": "PPL",
+    "referenceOffsetKm": 1.55,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "luhua": {
+    "name": "芦花（黑水）",
+    "matchedName": "Luhua",
+    "geonameId": "1802095",
+    "lon": 102.98786,
+    "lat": 32.06708,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.81,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "maoergai": {
+    "name": "毛儿盖一带",
+    "lon": 103.06,
+    "lat": 32.65,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "baxi": {
+    "name": "巴西",
+    "matchedName": "Baxi",
+    "geonameId": "1816836",
+    "lon": 103.23396,
+    "lat": 33.60697,
+    "feature": "PPL",
+    "referenceOffsetKm": 4.09,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "hadapu": {
+    "name": "哈达铺",
+    "lon": 104.21,
+    "lat": 34.23,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "minxian": {
+    "name": "岷县",
+    "matchedName": "Chengjiao Chengguanzhen",
+    "geonameId": "1800453",
+    "lon": 104.03056,
+    "lat": 34.43583,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.98,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "zhangxian": {
+    "name": "漳县",
+    "matchedName": "Zhangxian",
+    "geonameId": "1785046",
+    "lon": 104.4625,
+    "lat": 34.84944,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.69,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "tongwei": {
+    "name": "通渭",
+    "matchedName": "Pingxiang",
+    "geonameId": "1792560",
+    "lon": 105.25058,
+    "lat": 35.2079,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.99,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jieshipu": {
+    "name": "界石铺",
+    "matchedName": "Jieshipu",
+    "geonameId": "8534050",
+    "lon": 105.53784,
+    "lat": 35.61073,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 4.84,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xinglong": {
+    "name": "兴隆镇（西吉）",
+    "matchedName": "Xinglong",
+    "geonameId": "1788963",
+    "lon": 105.80989,
+    "lat": 35.70379,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 9.21,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "qing shizui": {
+    "name": "青石嘴一带",
+    "matchedName": "Qingshizui",
+    "geonameId": "1797756",
+    "lon": 106.25,
+    "lat": 35.81667,
+    "feature": "PPL",
+    "referenceOffsetKm": 10.4,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "huanxian": {
+    "name": "环县",
+    "matchedName": "Huancheng",
+    "geonameId": "1807603",
+    "lon": 107.29596,
+    "lat": 36.57561,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 0.72,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "dayong": {
+    "name": "大庸（今张家界）",
+    "matchedName": "Zhangjiajie",
+    "geonameId": "1813171",
+    "lon": 110.47833,
+    "lat": 29.12944,
+    "feature": "PPLA2",
+    "referenceOffsetKm": 0.17,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "yuanling": {
+    "name": "沅陵",
+    "matchedName": "Yuanling",
+    "geonameId": "1786066",
+    "lon": 110.40222,
+    "lat": 28.44861,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.29,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "chenxi": {
+    "name": "辰溪",
+    "matchedName": "Chenyang",
+    "geonameId": "1815068",
+    "lon": 110.17298,
+    "lat": 28.01581,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.94,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xupu": {
+    "name": "溆浦",
+    "matchedName": "Lufeng",
+    "geonameId": "1802133",
+    "lon": 110.58583,
+    "lat": 27.90944,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.41,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xinhua": {
+    "name": "新化",
+    "matchedName": "Shangmei",
+    "geonameId": "1788869",
+    "lon": 111.29556,
+    "lat": 27.74278,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.91,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "wugang": {
+    "name": "武冈",
+    "matchedName": "Wugang",
+    "geonameId": "1791272",
+    "lon": 110.63198,
+    "lat": 26.7279,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.31,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "huitong": {
+    "name": "会同",
+    "matchedName": "Lincheng",
+    "geonameId": "1803584",
+    "lon": 109.66336,
+    "lat": 26.86932,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 7.6,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "zhijiang": {
+    "name": "芷江",
+    "matchedName": "Zhijiang",
+    "geonameId": "1784525",
+    "lon": 109.6592,
+    "lat": 27.45814,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 2.24,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "shiqian": {
+    "name": "石阡",
+    "matchedName": "Shiqian",
+    "geonameId": "1795058",
+    "lon": 108.22806,
+    "lat": 27.5225,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.34,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "wengan": {
+    "name": "瓮安",
+    "matchedName": "Yongyang",
+    "geonameId": "1786221",
+    "lon": 107.47917,
+    "lat": 27.07139,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.18,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xiuwen": {
+    "name": "修文",
+    "matchedName": "Xiuwen",
+    "geonameId": "1788253",
+    "lon": 106.58333,
+    "lat": 26.85,
+    "feature": "PPL",
+    "referenceOffsetKm": 1.29,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "qianxi": {
+    "name": "黔西",
+    "matchedName": "Qianxi",
+    "geonameId": "1798230",
+    "lon": 106.02556,
+    "lat": 27.03806,
+    "feature": "PPL",
+    "referenceOffsetKm": 2.06,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "dafang": {
+    "name": "大定（今大方）",
+    "matchedName": "Dafang",
+    "geonameId": "1814445",
+    "lon": 105.60194,
+    "lat": 27.14889,
+    "feature": "PPL",
+    "referenceOffsetKm": 1.27,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "bijie": {
+    "name": "毕节",
+    "matchedName": "Bijie",
+    "geonameId": "1816373",
+    "lon": 105.28627,
+    "lat": 27.30193,
+    "feature": "PPLA2",
+    "referenceOffsetKm": 0.66,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "hezhang": {
+    "name": "赫章",
+    "matchedName": "Hezhang",
+    "geonameId": "1808195",
+    "lon": 104.72389,
+    "lat": 27.12222,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.65,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "weining": {
+    "name": "威宁",
+    "matchedName": "Weining",
+    "geonameId": "1816028",
+    "lon": 104.23333,
+    "lat": 26.85,
+    "feature": "PPL",
+    "referenceOffsetKm": 4.76,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "yiliang": {
+    "name": "彝良",
+    "matchedName": "Jiaokui",
+    "geonameId": "1806047",
+    "lon": 104.00478,
+    "lat": 27.59414,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 5.3,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "zhenxiong": {
+    "name": "镇雄",
+    "matchedName": "Wufeng",
+    "geonameId": "1784592",
+    "lon": 104.86924,
+    "lat": 27.43493,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.57,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "fumin": {
+    "name": "富民",
+    "matchedName": "Yongding",
+    "geonameId": "1786365",
+    "lon": 102.46189,
+    "lat": 25.1986,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 4.51,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "chuxiong": {
+    "name": "楚雄",
+    "matchedName": "Chuxiong",
+    "geonameId": "1814760",
+    "lon": 101.54556,
+    "lat": 25.03639,
+    "feature": "PPLA2",
+    "referenceOffsetKm": 0.69,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xiangyun": {
+    "name": "祥云",
+    "matchedName": "Xiangcheng",
+    "geonameId": "1790442",
+    "lon": 100.56248,
+    "lat": 25.46687,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.92,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "binchuan": {
+    "name": "宾川",
+    "matchedName": "Niujing",
+    "geonameId": "1799270",
+    "lon": 100.57543,
+    "lat": 25.82999,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.46,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "heqing": {
+    "name": "鹤庆",
+    "matchedName": "Yunhe",
+    "geonameId": "1785719",
+    "lon": 100.17625,
+    "lat": 26.5601,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.62,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jiuhe": {
+    "name": "九河一带",
+    "matchedName": "Jiuhe",
+    "geonameId": "12358572",
+    "lon": 99.99185,
+    "lat": 26.76269,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 6.91,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "derong": {
+    "name": "得荣",
+    "matchedName": "Songmai",
+    "geonameId": "1279965",
+    "lon": 99.28633,
+    "lat": 28.71471,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.63,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "batang": {
+    "name": "巴塘",
+    "matchedName": "Batang",
+    "geonameId": "1281662",
+    "lon": 99.10578,
+    "lat": 30.0066,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.84,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "baiyu": {
+    "name": "白玉",
+    "matchedName": "Baiyü",
+    "geonameId": "1281696",
+    "lon": 98.82288,
+    "lat": 31.21295,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.75,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xiangcheng": {
+    "name": "定乡（今乡城）",
+    "matchedName": "Sangpi",
+    "geonameId": "8608938",
+    "lon": 99.79991,
+    "lat": 28.93391,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.43,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "daocheng": {
+    "name": "稻城",
+    "matchedName": "Jinzhu",
+    "geonameId": "6547110",
+    "lon": 100.29694,
+    "lat": 29.03921,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.31,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "litang": {
+    "name": "理化（今理塘）",
+    "matchedName": "Gaocheng",
+    "geonameId": "1810604",
+    "lon": 100.2694,
+    "lat": 29.98814,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.32,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xinlong": {
+    "name": "瞻化（今新龙）",
+    "matchedName": "Rulong",
+    "geonameId": "1797039",
+    "lon": 100.31087,
+    "lat": 30.94116,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.15,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "rangtang": {
+    "name": "壤塘一带",
+    "matchedName": "Zamtang",
+    "geonameId": "6547107",
+    "lon": 100.97775,
+    "lat": 32.26754,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.35,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "bao zuo": {
+    "name": "包座一带",
+    "lon": 103.37,
+    "lat": 33.73,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "dangchang": {
+    "name": "宕昌",
+    "matchedName": "Tanchang Chengguanzhen",
+    "geonameId": "1813875",
+    "lon": 104.39464,
+    "lat": 34.04462,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.74,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "lixian": {
+    "name": "礼县",
+    "matchedName": "Lixian",
+    "geonameId": "1802811",
+    "lon": 105.1725,
+    "lat": 34.19,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.69,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "liangdang": {
+    "name": "两当",
+    "matchedName": "Liangdang Chengguanzhen",
+    "geonameId": "1804081",
+    "lon": 106.30222,
+    "lat": 33.90972,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.21,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "tianshui": {
+    "name": "天水",
+    "matchedName": "Qincheng",
+    "geonameId": "1792890",
+    "lon": 105.72722,
+    "lat": 34.58028,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.66,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "gangu": {
+    "name": "甘谷",
+    "matchedName": "Gangu Chengguanzhen",
+    "geonameId": "1810724",
+    "lon": 105.32632,
+    "lat": 34.73564,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.71,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jiangyou": {
+    "name": "江油（今武都）",
+    "matchedName": "Wudu",
+    "geonameId": "1791295",
+    "lon": 104.77369,
+    "lat": 31.884,
+    "feature": "PPL",
+    "referenceOffsetKm": 12.69,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jiange-puan": {
+    "name": "剑阁（普安）",
+    "matchedName": "Pu’an",
+    "geonameId": "1798537",
+    "lon": 105.46686,
+    "lat": 32.03728,
+    "feature": "PPLA4",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "zitong-wenchang": {
+    "name": "梓潼（文昌）",
+    "matchedName": "Wenchang",
+    "geonameId": "1783699",
+    "lon": 105.15502,
+    "lat": 31.63625,
+    "feature": "PPLA3",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "beichuan": {
+    "name": "北川（曲山旧城）",
+    "matchedName": "Qushan",
+    "geonameId": "1797298",
+    "lon": 104.45321,
+    "lat": 31.82644,
+    "feature": "PPLW",
+    "referenceOffsetKm": 0.96,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "dunshang": {
+    "name": "墩上（北川）",
+    "matchedName": "Dunshang",
+    "geonameId": "6869067",
+    "lon": 104.16712,
+    "lat": 31.80419,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "tumen-maoxian": {
+    "name": "土门一带",
+    "matchedName": "Tumen",
+    "geonameId": "1792389",
+    "lon": 104.0725,
+    "lat": 31.76727,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical place; not a surveyed 1935 path",
+    "review": "Selected by exact source ID after checking aliases and regional context; county towns and similarly named villages excluded."
+  },
+  "wenzhou": {
+    "name": "威州（汶川）",
+    "matchedName": "Weizhou",
+    "geonameId": "1791566",
+    "lon": 103.58491,
+    "lat": 31.49267,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 2.57,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "lixiansc": {
+    "name": "理番（今理县）",
+    "matchedName": "Zagunao",
+    "geonameId": "1785522",
+    "lon": 103.17662,
+    "lat": 31.44618,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.93,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jinchuan": {
+    "name": "大金川一带",
+    "matchedName": "Jinchuan",
+    "geonameId": "1805734",
+    "lon": 102.05884,
+    "lat": 31.47551,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.51,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "daofu": {
+    "name": "道孚",
+    "matchedName": "Xianshui",
+    "geonameId": "1783556",
+    "lon": 101.12701,
+    "lat": 30.99145,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.44,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "luhuo": {
+    "name": "炉霍",
+    "matchedName": "Xindou",
+    "geonameId": "1789098",
+    "lon": 100.67847,
+    "lat": 31.39648,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.74,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "liulin": {
+    "name": "柳林（信阳）",
+    "matchedName": "Liulin",
+    "geonameId": "1802993",
+    "lon": 114.08361,
+    "lat": 31.92306,
+    "feature": "PPL",
+    "referenceOffsetKm": 9.0,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "tongbai": {
+    "name": "桐柏山一带",
+    "matchedName": "Tongbai",
+    "geonameId": "1792714",
+    "lon": 113.40407,
+    "lat": 32.37498,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 4.17,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "pingshi": {
+    "name": "平氏",
+    "matchedName": "Pingshi",
+    "geonameId": "1798692",
+    "lon": 113.07806,
+    "lat": 32.52861,
+    "feature": "PPL",
+    "referenceOffsetKm": 3.5,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "biyang": {
+    "name": "泌阳一带",
+    "matchedName": "Biyang",
+    "geonameId": "1816315",
+    "lon": 113.32195,
+    "lat": 32.73087,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 7.6,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "baozhai": {
+    "name": "保安寨一带",
+    "matchedName": "Bao’an",
+    "geonameId": "1816987",
+    "lon": 113.23454,
+    "lat": 33.38304,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 9.95,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "xiatang": {
+    "name": "下汤",
+    "matchedName": "Xiatang",
+    "geonameId": "1789780",
+    "lon": 112.6798,
+    "lat": 33.71987,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 3.82,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "luanchuan": {
+    "name": "栾川一带",
+    "matchedName": "Luanchuan Chengguanzhen",
+    "geonameId": "1802202",
+    "lon": 111.613,
+    "lat": 33.7808,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.65,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jiaohe": {
+    "name": "叫河",
+    "matchedName": "Jiaohe",
+    "geonameId": "1806077",
+    "lon": 111.30333,
+    "lat": 33.85222,
+    "feature": "PPL",
+    "referenceOffsetKm": 5.61,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "tiesuoguan": {
+    "name": "铁锁关一带",
+    "lon": 110.82,
+    "lat": 33.96,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "sanyao": {
+    "name": "三要司",
+    "matchedName": "Sanyao",
+    "geonameId": "1796541",
+    "lon": 110.49056,
+    "lat": 33.98889,
+    "feature": "PPL",
+    "referenceOffsetKm": 18.43,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "yunxi": {
+    "name": "郧西",
+    "matchedName": "Yunxixian Chengguanzhen",
+    "geonameId": "1785665",
+    "lon": 110.42306,
+    "lat": 32.98276,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.85,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "zhenan": {
+    "name": "镇安",
+    "matchedName": "Yonglecun",
+    "geonameId": "1786311",
+    "lon": 109.29964,
+    "lat": 33.41026,
+    "feature": "PPL",
+    "referenceOffsetKm": 13.93,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "huayang": {
+    "name": "华阳",
+    "matchedName": "Huayang",
+    "geonameId": "1806994",
+    "lon": 107.53667,
+    "lat": 33.59167,
+    "feature": "PPL",
+    "referenceOffsetKm": 18.04,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "gepai": {
+    "name": "葛牌",
+    "matchedName": "Gepaizhen",
+    "geonameId": "1810193",
+    "lon": 109.5,
+    "lat": 33.90722,
+    "feature": "PPL",
+    "referenceOffsetKm": 4.53,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "luonan": {
+    "name": "雒南（今洛南）",
+    "matchedName": "Luonan",
+    "geonameId": "1801870",
+    "lon": 110.13611,
+    "lat": 34.08611,
+    "feature": "PPL",
+    "referenceOffsetKm": 1.35,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "danfeng": {
+    "name": "龙驹寨（今丹凤）",
+    "matchedName": "Danfeng",
+    "geonameId": "1802562",
+    "lon": 110.3,
+    "lat": 33.75,
+    "feature": "PPL",
+    "referenceOffsetKm": 6.21,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "shangzhou": {
+    "name": "商县（今商州）",
+    "matchedName": "Shangluo",
+    "geonameId": "1796068",
+    "lon": 109.93056,
+    "lat": 33.86667,
+    "feature": "PPLA2",
+    "referenceOffsetKm": 0.95,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "shangnan": {
+    "name": "商南",
+    "matchedName": "Shangnan",
+    "geonameId": "1796152",
+    "lon": 110.86972,
+    "lat": 33.52528,
+    "feature": "PPL",
+    "referenceOffsetKm": 1.09,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jingziguan": {
+    "name": "荆紫关",
+    "matchedName": "Jingziguan",
+    "geonameId": "1805535",
+    "lon": 111.01528,
+    "lat": 33.23833,
+    "feature": "PPL",
+    "referenceOffsetKm": 2.36,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "ziwu": {
+    "name": "子午镇",
+    "matchedName": "Ziwu",
+    "geonameId": "1783694",
+    "lon": 108.89362,
+    "lat": 34.05805,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 0.96,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "fengyukou": {
+    "name": "沣峪口",
+    "matchedName": "Fengyukou",
+    "geonameId": "1811171",
+    "lon": 108.81889,
+    "lat": 34.01889,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.16,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "zhouzhi": {
+    "name": "周至",
+    "matchedName": "Erqu",
+    "geonameId": "1811662",
+    "lon": 108.20639,
+    "lat": 34.15278,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.49,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jiangkou25": {
+    "name": "江口（留坝）",
+    "matchedName": "Jiangkou",
+    "geonameId": "1806309",
+    "lon": 107.05002,
+    "lat": 33.73052,
+    "feature": "PPLA4",
+    "referenceOffsetKm": 7.15,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "shuangshipu": {
+    "name": "双石铺（凤县）",
+    "matchedName": "Shuangshipu",
+    "geonameId": "1794593",
+    "lon": 106.52466,
+    "lat": 33.91705,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.89,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "liqiao": {
+    "name": "利桥",
+    "lon": 106.15,
+    "lat": 34.12,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "qin an": {
+    "name": "秦安",
+    "matchedName": "Xingguo",
+    "geonameId": "1789030",
+    "lon": 105.66861,
+    "lat": 34.85861,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.2,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jingning": {
+    "name": "静宁",
+    "matchedName": "Jingning Chengguanzhen",
+    "geonameId": "1805606",
+    "lon": 105.72301,
+    "lat": 35.52036,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.28,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "longde": {
+    "name": "隆德",
+    "matchedName": "Longde Chengguanzhen",
+    "geonameId": "1802672",
+    "lon": 106.11667,
+    "lat": 35.6125,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.89,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "pingliang": {
+    "name": "平凉",
+    "matchedName": "Pingliang",
+    "geonameId": "1798760",
+    "lon": 106.68611,
+    "lat": 35.53917,
+    "feature": "PPLA2",
+    "referenceOffsetKm": 0.56,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "jingchuan": {
+    "name": "泾川",
+    "matchedName": "Jingchuan Chengguanzhen",
+    "geonameId": "1805687",
+    "lon": 107.36111,
+    "lat": 35.33194,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.24,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "lingtai": {
+    "name": "灵台",
+    "matchedName": "Zhongtai",
+    "geonameId": "1784301",
+    "lon": 107.61417,
+    "lat": 35.06583,
+    "feature": "PPL",
+    "referenceOffsetKm": 0.6,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "chongxin": {
+    "name": "崇信",
+    "matchedName": "Jinping",
+    "geonameId": "1805430",
+    "lon": 107.02923,
+    "lat": 35.31435,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 1.09,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "shishilipu": {
+    "name": "四十里铺（平凉）",
+    "lon": 106.92,
+    "lat": 35.52,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "zhenyuan": {
+    "name": "镇原",
+    "matchedName": "Zhenyuan Chengguanzhen",
+    "geonameId": "1784585",
+    "lon": 107.19639,
+    "lat": 35.6775,
+    "feature": "PPLA3",
+    "referenceOffsetKm": 0.43,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "he shuibanqiao": {
+    "name": "板桥（合水）",
+    "lon": 108.2,
+    "lat": 36.2,
+    "coordinateMeaning": "regional editorial reference; no suitable GeoNames locality match"
+  },
+  "yongningshan": {
+    "name": "永宁山一带",
+    "matchedName": "Yongning",
+    "geonameId": "1786287",
+    "lon": 108.76667,
+    "lat": 36.56667,
+    "feature": "PPL",
+    "referenceOffsetKm": 12.89,
+    "coordinateMeaning": "modern locality reference, not a surveyed historical road or site"
+  },
+  "dala-gannan": {
+    "name": "广利（今达拉）",
+    "matchedName": "Dala",
+    "geonameId": "1814116",
+    "lon": 103.33333,
+    "lat": 33.88333,
+    "feature": "PPLA4",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical region; not a surveyed marching path"
+  },
+  "wangzang": {
+    "name": "旺藏",
+    "matchedName": "Wangzang",
+    "geonameId": "7446186",
+    "lon": 103.59995,
+    "lat": 33.95072,
+    "feature": "PPLA4",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical region; not a surveyed marching path"
+  },
+  "heiduo": {
+    "name": "黑多一带",
+    "matchedName": "Heiduo",
+    "geonameId": "7342983",
+    "lon": 103.8668,
+    "lat": 34.07226,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical region; not a surveyed marching path"
+  },
+  "dacaotan-hadapu": {
+    "name": "大草滩（哈达铺西北）",
+    "matchedName": "Dacaotan",
+    "geonameId": "7446220",
+    "lon": 104.04375,
+    "lat": 34.27911,
+    "feature": "PPL",
+    "sourceId": "G04",
+    "coordinateMeaning": "Reviewed modern locality reference for a cited historical region; not a surveyed marching path"
+  }
+}

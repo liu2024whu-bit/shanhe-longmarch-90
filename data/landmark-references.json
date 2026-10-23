@@ -1,0 +1,24 @@
+{
+  "zunyi": {
+    "name": "遵义会议会址",
+    "lat": 27.6915428,
+    "lon": 106.9161219,
+    "osmType": "way",
+    "osmId": 670711049,
+    "url": "https://www.openstreetmap.org/way/670711049",
+    "sourceId": "G10",
+    "coordinateMeaning": "Modern building/bridge geometry centre, not a surveyed historical marching track",
+    "excluded": "Namesake bus stop, area centroid and wider heritage-site relation"
+  },
+  "luding": {
+    "name": "泸定桥",
+    "lat": 29.9144973,
+    "lon": 102.230205,
+    "osmType": "way",
+    "osmId": 877739922,
+    "url": "https://www.openstreetmap.org/way/877739922",
+    "sourceId": "G10",
+    "coordinateMeaning": "Modern building/bridge geometry centre, not a surveyed historical marching track",
+    "excluded": "Namesake bus stop, area centroid and wider heritage-site relation"
+  }
+}
